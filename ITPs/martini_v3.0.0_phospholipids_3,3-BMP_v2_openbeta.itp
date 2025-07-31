@@ -1,6 +1,9 @@
 ; Last update : Jan-2025 by Kasper 
-; Authors:  Kasper B. Pedersen
-
+; please cite:
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 
 ;;;;;; Martini lipid topology for 3,3' isomer C18:1/C18:1 BMP (DOB3)                  
 ;

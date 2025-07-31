@@ -3,9 +3,10 @@
 ; Collection of plasmalogen phosphatidylserine Martini 3 lipids
 ;
 ; Please cite:
-; K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 and 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ;
 ; Last updated:  Dec-2024 by Kasper;
 ; Authors: Kasper B. Pedersen
@@ -23,9 +24,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -93,9 +95,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -163,9 +166,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -239,9 +243,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -315,9 +320,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -397,9 +403,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -479,9 +486,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -567,9 +575,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -655,9 +664,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -749,9 +759,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -843,9 +854,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -919,9 +931,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1001,9 +1014,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1083,9 +1097,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1165,9 +1180,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1253,9 +1269,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1341,9 +1358,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1435,9 +1453,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1517,9 +1536,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1599,9 +1619,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1687,9 +1708,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1775,9 +1797,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1857,9 +1880,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -1939,9 +1963,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2021,9 +2046,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2103,9 +2129,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2185,9 +2212,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2270,9 +2298,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2355,9 +2384,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2440,9 +2470,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2525,9 +2556,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2610,9 +2642,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2692,9 +2725,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2774,9 +2808,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2856,9 +2891,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -2941,9 +2977,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -3026,9 +3063,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -3108,9 +3146,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -3193,9 +3232,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:
@@ -3278,9 +3318,10 @@
 ;   This topology follows the standard Martini 3.0 lipid definitions and building block rules. 
 ;   Bonded parameters and mapping have been optimized as described in K.B. Pedersen et al. 2024.
 ; Reference(s): 
-;   K.B. Pedersen et al. The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behaviour, TBD 2024 
-;   P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ; Created: 2024.07.12
 ;
 ; Molecular topology and mapping of indices:

@@ -1,18 +1,19 @@
 ;
-;  - DOTAP
-; Collection of trimethylammonium propane Martini 3 lipids
+;  - Diglycerides
 ;
 ; Please cite:
-; K.B. Pedersen et al.  TBD Martini 3 lipids TBD and P.C.T. Souza et al. Martini 3: a general purpose force field for coarse-grained molecular dynamics, 
-;   Nat. Methods; 2021. doi: 10.1038/s41592-021-01098-3
+; K.B. Pedersen et al., The Martini 3 Lipidome: Expanded and Refined Parameters Improve Lipid Phase Behavior*, 
+; ACS Central Science, 2025. doi: 10.1021/acscentsci.5c00755
+; P.C.T. Souza et al., Martini 3: A General Purpose Force Field for Coarse-Grained Molecular Dynamics*, 
+; Nature Methods, 2021. doi: 10.1038/s41592-021-01098-3
 ;
 ; Last updated:  Jan-2025 by Kasper;
 ; Authors: Kasper B. Pedersen
 
-;;;;;; Martini lipid topology for di-C18:1 trimethylammonium propane (DOTAP), generated using:
+;;;;;; Martini lipid topology for di-C18:1 DG (DODG), generated using:
 ;
 ; Molecular topology and mapping of indices:
-;     +NC3-GL1-C1A-D2A-C3A-C4A
+;      OH-GL1-C1A-D2A-C3A-C4A
 ;          |
 ;         GL2-C1B-D2B-C3B-C4B
 ;
@@ -23,27 +24,27 @@
 
 [moleculetype]
 ; molname      nrexcl
-  DOTAP          1
+  DODG          1
 
 [atoms]
 ; id 	type 	resnr 	residu 	atom 	cgnr 	charge    (mass)
-   1    Q1   1  DOTAP  NC3   1   1.0
-   2  SN4a   1  DOTAP  GL1   2 	0
-   3  SN4a   1  DOTAP  GL2   3 	0
-   4    C1   1  DOTAP  C1A   4 	0
-   5   C4h   1  DOTAP  D2A   5 	0
-   6    C1   1  DOTAP  C3A   6 	0
-   7    C1   1  DOTAP  C4A   7 	0
-   8    C1   1  DOTAP  C1B   8 	0
-   9   C4h   1  DOTAP  D2B   9 	0
-  10    C1   1  DOTAP  C3B  10 	0
-  11    C1   1  DOTAP  C4B  11 	0
+   1   TN6   1  DODG  COH   1 	0
+   2  SN4a   1  DODG  GL1   2 	0
+   3  SN4a   1  DODG  GL2   3 	0
+   4    C1   1  DODG  C1A   4 	0
+   5   C4h   1  DODG  D2A   5 	0
+   6    C1   1  DODG  C3A   6 	0
+   7    C1   1  DODG  C4A   7 	0
+   8    C1   1  DODG  C1B   8 	0
+   9   C4h   1  DODG  D2B   9 	0
+  10    C1   1  DODG  C3B  10 	0
+  11    C1   1  DODG  C4B  11 	0
 
 [bonds]
 ;  i  j 	name 	(using named bondtypes from martini_v3.0_ffbonded.itp)
 ;  i  j 	funct 	force.c.
-   1  2 	b_NC3_GL_def    
-   1  3 	b_NC3_GL_def_long
+   1  2 	b_COH_GL_def
+   1  3 	b_COH_GL_def_long
    2  3 	b_GL_GL_glyc
    2  4 	b_GL_C1_glyc_5long
    4  5 	b_C1_C4_mid_5long
@@ -57,7 +58,7 @@
 [angles]
 ;  i  j  k 	name 	(using named angletypes from martini_v3.0_ffbonded.itp)
 ;  i  j  k 	funct 	angle 	force.c.
-   1  2  4 	a_NC3_GL_C_def
+   1  2  4 	a_COH_GL_C_def
    3  2  4 	a_GL_GL_C_glyc
    2  3  8 	a_GL_GL_C_glyc
    2  4  5 	a_GL_C1_C4_glyc
